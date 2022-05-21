@@ -1,0 +1,541 @@
+{
+    "details": [{
+        "id": "v4dviok2omoumh",
+        "name": "EXTREME NETWORKS",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": ""
+    }, {
+        "id": "sd1iw8akhnf2ffa",
+        "name": "STORMSHIELD v4",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": ""
+    },
+    {
+        "id": "di07x67hy63guu",
+        "name": "WEBLIB-UCOPIA",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": ""
+    },
+    {
+        "id": "di07x67hy63",
+        "name": "WEB",
+        "school_id": "xfefzir9nud",
+        "students": [],
+        "idparent": ""
+    },
+    
+    {
+        "id": "3dmbkn4cq9ung66",
+        "name": "CSNE du 02 au 04 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["v8fl2p5ovrp61exi", "swk5su0g9qi61l2d", "vvonpihp3wc61fcs"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "h7yvijllc6h8fvo",
+        "name": "CSNE du 04 au 06 octobre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "hgw4rfu1j896ngc1",
+        "name": "CSNE du 05 au 07 Juillet 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "sh7o97shyq91uhg0",
+        "name": "CSNE du 06 au 08 decembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["htzbg4b1gnmyq"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "0a4lc9oretab1vcw2",
+        "name": "CSNE du 07 au 09 juin 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["849ll8wc8u21vyro"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "n24ubgevxugngx7",
+        "name": "CSNE du 08 au 10 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "qhvmu66vs6p6nfu6",
+        "name": "CSNE du 10 au 12 Mai 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["au53ffgfsyepyal", "a49y7f3w6jjpyd8", "zuwr8125wo977d7g"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "n7gansuxrgc1ujjx",
+        "name": "CSNE du 13 au 15 decembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "apwmozss4em60keu",
+        "name": "CSNE du 16 au 18 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["pc9rp7zs1u2cq1", "23felqfik2l6m6eh", "p9nxomjftie6m7ns"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "g7eyo9vnljd6nfv7",
+        "name": "CSNE du 17 au 19 Mai 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["r0swene4gxhnn09", "1fq8j3yl6n219ccn"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "k4i7gnjilar8fwg",
+        "name": "CSNE du 18 au 20 octobre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "ydf1imcct0b6ngdo",
+        "name": "CSNE du 19 au 21 Juillet 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "cabgw23jvc2g28",
+        "name": "CSNE du 21 au 23 Septembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["40vjepvhtxl113wl", "mqnwyj2pof115g5"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "rps8605pjve6n09g",
+        "name": "CSNE du 25 au 27 Janvier 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "qkp3q6ll0vq3r0s",
+        "name": "CSNE du 28 au 30 Septembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["gyo77m1r17ol47o"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "et4reychshr6n1ko",
+        "name": "CSNE du 29 au 31 Mars 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["tdfrzl3volb77g85", "tocyxhwltc77gas", "0gw4k6hifcelnn3g", "83omvxt264r19bw5", "l7liois4rw4n22", "y69mkbz0d84n80"],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "ce9u0h0ec58lp9t",
+        "name": "CSNE du 30 Novembre au 02 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "1z5nv44lf5fqa9p"
+    }, {
+        "id": "i5k1adr6492jzf",
+        "name": "UCOPIA ADVANCED du 15 Septembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ats6rk4rlcgq2gj"
+    }, {
+        "id": "eexwhu0jqul60y76",
+        "name": "UCOPIA ADVANCED du 16 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ats6rk4rlcgq2gj"
+    }, {
+        "id": "rvsh44sucu60ird",
+        "name": "UCOPIA ADVANCED du 18 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["2teimvl5uq6n3z8"],
+        "idparent": "ats6rk4rlcgq2gj"
+    }, {
+        "id": "3x1gqyvxaz3at7",
+        "name": "UCOPIA ADVANCED du 21 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ats6rk4rlcgq2gj"
+    }, {
+        "id": "m9mo0lz4ei2k2i",
+        "name": "UCOPIA ADVANCED du 24 Novembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ats6rk4rlcgq2gj"
+    }, {
+        "id": "dzdjrqvvcxc6nhnf",
+        "name": "UCOPIA ADVANCED du 9 Juin 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ats6rk4rlcgq2gj"
+    }, {
+        "id": "7ge3ajb87amloyn",
+        "name": "ECS WirelessCloud du 02 au 03 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "c779tj5pw2q3m"
+    }, {
+        "id": "ahvhcag6alcpe5h",
+        "name": "ECS WirelessCloud du 19 au 20 Mai 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "c779tj5pw2q3m"
+    }, {
+        "id": "kpxily1c15l6njaz",
+        "name": "ECS WirelessCloud du 20 au 21 Janvier 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "c779tj5pw2q3m"
+    }, {
+        "id": "pwsop117cx3ath",
+        "name": "ECS WirelessCloud du 21 au 22 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "c779tj5pw2q3m"
+    }, {
+        "id": "ja7w373nj2qdd6",
+        "name": "ECS WirelessCloud du 23 au 24 Septembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "c779tj5pw2q3m"
+    }, {
+        "id": "7evauw0scta60l2h",
+        "name": "ECS WirelessCloud du 25 au 26 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "c779tj5pw2q3m"
+    }, {
+        "id": "ats6rk4rlcgq2gj",
+        "name": "ADVANCED",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di07x67hy63guu"
+    }, {
+        "id": "kst4f0a9g8nq159",
+        "name": "FOUNDATION",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di07x67hy63guu"
+    }, {
+        "id": "n1t60d1b8lyom4",
+        "name": "PRE-SALES",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di07x67hy63guu"
+    }, {
+        "id": "di996l5j2miq1lu",
+        "name": "SUPERIOR",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di07x67hy63guu"
+    }, {
+        "id": "r6f1j0k4rx2jxp",
+        "name": "UCOPIA SUPERIOR du 14 Septembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di996l5j2miq1lu"
+    }, {
+        "id": "6q0r7li6r9e60y5b",
+        "name": "UCOPIA SUPERIOR du 15 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di996l5j2miq1lu"
+    }, {
+        "id": "kyfb74cvpnb60iog",
+        "name": "UCOPIA SUPERIOR du 17 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["2teimvl5uq6n3z8"],
+        "idparent": "di996l5j2miq1lu"
+    }, {
+        "id": "6a7forlb4oh3asn",
+        "name": "UCOPIA SUPERIOR du 20 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["dg1zurqnntb621vm"],
+        "idparent": "di996l5j2miq1lu"
+    }, {
+        "id": "gdh0ym78wll2k1z",
+        "name": "UCOPIA SUPERIOR du 23 Novembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di996l5j2miq1lu"
+    }, {
+        "id": "zmmgr3vhy2p6nhmq",
+        "name": "UCOPIA SUPERIOR du 8 Juin 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "di996l5j2miq1lu"
+    }, {
+        "id": "5tje16ceujr6nh9b",
+        "name": "UCOPIA SUPERIOR du 9 Mars 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["dvtazt5tmmoyhn", "ggnffv1kfru6me4l"],
+        "idparent": "di996l5j2miq1lu"
+    }, {
+        "id": "g9bzc54y5mipe8b",
+        "name": "ECS WirelessCore du 15 au 18 Novembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "f4ikhoq36benyr8"
+    }, {
+        "id": "owuu18v47yp1vder",
+        "name": "CSNA (Intra) du 03 au 05 mai 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "gn8xo8e8jzu60xj8",
+        "name": "CSNA du 07 au 09 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["2mtoufvk7b7ned0", "1rt1evu7uwi61fqc", "d9ivtk20o3h61fyw", "qdrlk5txlbi61g3r", "mm8bgjnrfr61g75", "3pnrdjpdm6u61gk2", "34ww9a2ruxg61gn2", "krbqrdm9e69lrar"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "1azg9gd459y61f92",
+        "name": "CSNA du 07 au 09 Decembre 2021 (Intra)",
+        "school_id": "xfefzir9nudqu",
+        "students": ["fwqqu80wy361kw6", "4sgrigp7sur61kzf", "cdgjuexszit61l29", "10zmd0i87nmq61l79", "9q5x9xepuu761lcz"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "6f9l6h7ireg1uh7q",
+        "name": "CSNA du 08 au 10 novembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "5a8q03i5hc6n0a4",
+        "name": "CSNA du 1 au 3 Février 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["au53ffgfsyepyal", "a49y7f3w6jjpyd8", "zuwr8125wo977d7g", "dvtazt5tmmoyhn"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "a64ol5ajyndwz6o",
+        "name": "CSNA du 12 au 14 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["mjg6gsiv3td5f"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "gkjaextb9j60xqn",
+        "name": "CSNA du 14 au 16 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["95jlxpio0y6nfsb", "g7wqzaoeefd6n1sf", "ti9ppkeeeshrrye", "8oc4jvc404v77t8s"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "9stbkzik6956nfzz",
+        "name": "CSNA du 14 au 16 Juin 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["xi5n55sx7ienn8m"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "66q37jp8xkd6n0hk",
+        "name": "CSNA du 15 au 17 février 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["l12ibmq512788xj", "5hpmg5514fm6n7zp", "tdfrzl3volb77g85", "tocyxhwltc77gas", "5fdecq5pfbioqom", "vkhxl8pt0gdoqr4"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "1bd4myh8y7l3as6",
+        "name": "CSNA du 19 au 21 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["lf9y4zfj11jnedc", "86wsqu069smne8h"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "ljrcaagpcen8ft2",
+        "name": "CSNA du 20 au 22 septembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "vrflibykneh6n826",
+        "name": "CSNA du 22 au 24 février 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["6vfmb1ih2mt77kxq", "d8r0yydq26h77l0c", "tc4f1uq2myk6njcc", "cx7ia8cu8oq2am", "htzbg4b1gnmyq", "ggnffv1kfru6me4l", "xmavwxvhjlmnmk7", "hnsrw75wpit194sq"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "xcm4qx5ayln1uhe9",
+        "name": "CSNA du 22 au 24 novembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "pl7h8hexcf60kuo",
+        "name": "CSNA du 23 au 25 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["atxx44gmctndx9", "r2afsvpgglne0f", "sugl9cihk3g61ltv", "lhvmixaj5v6napb", "3dq6eywd88w6m096"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "kk4g3ld0r46nbe9",
+        "name": "CSNA du 26 au 28 Avril 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["0ohzfrs52y7788u6", "xstp70hfmhn19h26", "isaqmtwnglk1abk3", "yolnitby3p6ngn"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "bgok7f6gzvowzli",
+        "name": "CSNA du 26 au 28 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["swk5su0g9qi61l2d", "7nib9ccgby7nfdf"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "frb92pqu0nh8ftq",
+        "name": "CSNA du 27 au 29 septembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "ldahuvn45tb6nfum",
+        "name": "CSNA du 31 Mai au 2 Juin 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["3mlme0eyhsw1uqsg"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "zxox6b5tzak6naxp",
+        "name": "CSNA du 5 au 7 Avril 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "d51a32f12gotpe",
+        "name": "CSNA v4 du 14 au 16 septembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["whidno3tc4f93o", "vvcfqlddfbq2hlv"],
+        "idparent": "ksq1b1exxh9qa47"
+    }, {
+        "id": "0y0g8xve6kp2jx1",
+        "name": "UCOPIA FOUNDATION du 13 Septembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "rxuw5h6azfi60y4o",
+        "name": "UCOPIA FOUNDATION du 14 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["ggnffv1kfru6me4l", "b3jy89qekm6meab"],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "12bad1vf0p1m60ik6",
+        "name": "UCOPIA FOUNDATION du 16 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["2teimvl5uq6n3z8"],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "s527wzzmdpp3asy",
+        "name": "UCOPIA FOUNDATION du 19 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["aqmiy91qtjgd5r", "9xje7vth7qu621vk", "o83a3gvi5o621vl", "dg1zurqnntb621vm"],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "0f53q5z8b6d2k07",
+        "name": "UCOPIA FOUNDATION du 22 Novembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "4vvcsept8teqdfg",
+        "name": "UCOPIA FOUNDATION du 28 Septembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["vvg7kvitqupz5lo"],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "o2b5o6nkzd6nhlz",
+        "name": "UCOPIA FOUNDATION du 7 Juin 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["yolnitby3p6ngn"],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "f4fwtsbff076nh8p",
+        "name": "UCOPIA FOUNDATION du 8 Mars 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["dvtazt5tmmoyhn", "8jtlztse517191jh"],
+        "idparent": "kst4f0a9g8nq159"
+    }, {
+        "id": "tszjj8ii0to60y2a",
+        "name": "UCOPIA PRE-SALES du 01 Decembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["ttymnyz8fn7ne60", "ggnffv1kfru6me4l"],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "5qdq616p8yv60i0w",
+        "name": "UCOPIA PRE-SALES du 09 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["qpntss0xcpljb"],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "iutzme7z3gypc9",
+        "name": "UCOPIA PRE-SALES du 12 Octobre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": ["vvg7kvitqupz5lo", "6d60humxmb6z5ly", "ajw6auwch6slrir"],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "bl9vsasrgh6nh7y",
+        "name": "UCOPIA PRESALES du 12 Juillet 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "l2243td762n6ngsk",
+        "name": "UCOPIA PRESALES du 17 Mai 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "tis4cwj3ydb6ngmr",
+        "name": "UCOPIA PRESALES du 18 Janvier 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["udby0xdoo177frf", "dvtazt5tmmoyhn"],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "c773726n8wf2juk",
+        "name": "UCOPIA PRESALES du 21 Octobre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "55uc1kfvx522jwd",
+        "name": "UCOPIA PRESALES du 9 Décembre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "n1t60d1b8lyom4"
+    }, {
+        "id": "ksq1b1exxh9qa47",
+        "name": "CSNA v4",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "sd1iw8akhnf2ffa"
+    }, {
+        "id": "1z5nv44lf5fqa9p",
+        "name": "CSNE v4",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "sd1iw8akhnf2ffa"
+    }, {
+        "id": "c779tj5pw2q3m",
+        "name": "ECS - WirelessCloud - Standard",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "v4dviok2omoumh"
+    }, {
+        "id": "f4ikhoq36benyr8",
+        "name": "ECS - WirelessCore - Standard",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "v4dviok2omoumh"
+    }, {
+        "id": "zgheig3ww8bpzlj",
+        "name": "ECS – Campus EXOS – Standard",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "v4dviok2omoumh"
+    }, {
+        "id": "frjhdf56qdpe7u",
+        "name": "ECS Campus EXOS du 11 au 14 Octobre 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "zgheig3ww8bpzlj"
+    }, {
+        "id": "jybtdoe0kv60k3l",
+        "name": "ECS Campus EXOS du 16 au 19 Novembre 2021",
+        "school_id": "xfefzir9nudqu",
+        "students": [],
+        "idparent": "zgheig3ww8bpzlj"
+    }, {
+        "id": "6fc78vbhnn9pe7d",
+        "name": "ECS Campus EXOS du 21 au 24 Juin 2022",
+        "school_id": "xfefzir9nudqu",
+        "students": ["yolnitby3p6ngn"],
+        "idparent": "zgheig3ww8bpzlj"
+    }]
+}

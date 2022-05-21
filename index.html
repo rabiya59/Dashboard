@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Dashboard</title>
+        
+        <link rel="stylesheet" href="./css/fontawesome-free-6.0.0-web/css/all.css">
+        <link rel="stylesheet" href="./style.css">
+        <link rel="icon" type="image/png" href="logoexer.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="./moment.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
+         <script src="./script.js" defer></script>
+     
+    </head>
+    <body>
+
+        <!-- loader animating GIF -->
+        <div class="container">
+            <div class="navigation">
+                <ul>
+                    <li>
+                        <a href="#">
+                            <span class="icon"><img class="img2" src="logoexer.png"></span>
+                            <span class="title">Dashboard</span>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a href="#" onclick="displayDashboard('toutes', 'futures')">
+                            <span class="icon"><i class="fa-solid fa-house-user"></i></span>
+                            <span class="title">Toutes les formations</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#formation=stormshield" onclick="displayDashboard('stormshield', 'futures')">
+                            <span class="icon"><img class="img" src="logostormshield.png"></span>
+                            <span class="title">Stormshield</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#formation=ucopia" onclick="displayDashboard('ucopia', 'futures')">
+                            <span class="icon"><img class="img" src="logoucopia.png"></span>
+                            <span class="title">Ucopia</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#formation=extreme-networks" onclick="displayDashboard('extreme-networks', 'futures')">
+                            <span class="icon"><img class="img" src="logoextremenetworks.jpg"></span>
+                            <span class="title">Extreme-networks</span>
+                        </a>
+                    </li>
+                      <li>
+                        <a href="./graph.html" >
+                            <span class="icon"><i class="fa-solid fa-chart-line"></i></span>
+                            <span class="title">Statistiques</span>
+                        </a>
+                    </li>
+                </ul>
+                <footer><p>Version 1.3 bêta</p></footer>
+            </div>
+            <!-- Main-->
+
+            <div class="main">
+                <div class="topbar">
+                    <div class="toggle">
+                        <i class="fa-solid fa-bars"></i>
+                    </div>
+                    <div class="search">
+                        <label>
+                        </label>
+                        <div class="user">
+                            <div id ="upload" class="date" onClick= "reload();"><img id="refresh"src="refresh.png"> <p id="update">
+                            <div id="heure_exacte"></div><br>
+                        </p></div>
+                        </div>
+                       
+                    </div>
+                </div>
+               
+                <!-- CARDs -->
+                <div class="cardBox">
+                    <div class="card">
+                        <div>
+                            <div class="numbers">Ce mois ci :</div>
+                            <div class="cardName" id="nb-formations">Aucune</div>
+                        </div>
+                        <div class="iconBx">
+                            <i class="fas fa-info-circle" style="color: rgb(255, 208, 0);"></i>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div>
+                            <div class="numbers">Selectionnez une année</div>
+                            <div class="cardName">
+                                <select id="years"></select>
+                            </div>
+                        </div>
+                        <div class="iconBx">
+                            <i class="far fa-calendar" style="color: black;"></i>
+                        </div>
+                    </div>
+                </div>
+                <!-- detail list-->
+                <div class="container">       
+                    <h3></h3>                
+                    <div id="nav-temporalite"></div>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th style="display: none;">Inputs date</th>
+                                <th class="row1" width="32%">Formations</th>
+                                <th>Instructeur</th>
+                                <th>Lieu</th>
+                                <th>⚠</th>
+                                <th width="15%">Inscriptions</th>
+                                <th>Détails</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-formations"></tbody> 
+                    </table>
+                    <div id="loader"></div>
+                    <p id="wait">Veuillez attendre quelques secondes...</p>                  
+                </div>
+            </div>
+        
+        <!-- The Modal -->
+        <div id="myModal" class="modal">
+            <!-- Modal content -->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span class="close">&times;</span>
+                    <h2>Liste des Etudiants inscrits</h2>
+                </div>
+                <div class="modal-body" id="modal-body">
+                    
+                    <p></p>
+                </div>
+                <div class="modal-footer">
+                    <h3></h3>
+                </div>
+            </div>
+        </div> 
+        <div>
+           
+       
+
+        </div>
+        <script src="jquery.min.js"></script>
+    </body>
+</html>
